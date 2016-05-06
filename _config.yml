@@ -3,16 +3,16 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: ZKBOYS
+title: orochi
 subtitle: I'm a 博客
 description: 技术整理归档
-author: WangShubin
+author: zhaowenlei
 language: zh-CN
 timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://zkboys.com
+url: http://orochi.cc
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -69,6 +69,6 @@ theme: landscape-local
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: git@github.com:zkboys/zkboys.github.io.git
+  repo: git@github.com:zhaowenlei/zhaowenlei.github.io.git
   branch: master
   message: github page
