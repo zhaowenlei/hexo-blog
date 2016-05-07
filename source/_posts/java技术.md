@@ -2,7 +2,7 @@
 title: java技术
 date: 2016-05-08 00:13:49
 tags: [技术分享标签]
-category: [list和map之间的转换]
+category: [java技术, list和map之间的转换]
 ---
 
 ##list提取一个值为list:
