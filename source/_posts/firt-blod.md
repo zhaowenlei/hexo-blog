@@ -6,3 +6,10 @@ toc: true
 ---
 ## 啊哈哈
 ## 姐姐
+
+```java
+
+class interface myclass{
+
+}
+```
