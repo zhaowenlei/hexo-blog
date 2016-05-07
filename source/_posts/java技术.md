@@ -1,8 +1,8 @@
 ---
 title: java技术
 date: 2016-05-08 00:13:49
-categories:java技术
-tags: [list和map之间的转换]
+tags: [java技术]
+category: [java技术, list和map之间的转换]
 ---
 
 ##list提取一个值为list:
