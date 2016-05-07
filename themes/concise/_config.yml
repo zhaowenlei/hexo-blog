@@ -1,9 +1,9 @@
 ####menu
 ####菜单栏
 menu:
-  Home: /
-  Archives: /archives
-  About: /about
+  首页: /
+  归档: /archives
+  关于: /about
 
 ####widgets
 ####插件
