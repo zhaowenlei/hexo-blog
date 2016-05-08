@@ -1,8 +1,8 @@
 ---
 title: private的失效情况
 date: 2016-05-08 10:57:35
-tags:[java技术]
 category: [java技术]
+tags: [java技术]
 ---
 
 ## Java中的private修饰符失效了？
