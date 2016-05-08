@@ -2,7 +2,7 @@
 title: list和map之间的转换
 date: 2016-05-08 00:13:49
 category: [java技术]
-tags: [list和map之间的转换]
+tags: [java技术]
 ---
 
 ### list提取一个值为list:
