@@ -67,7 +67,7 @@ Done.
 ```
 
 本地命令
-使用 ==fabric.api.local==函数在本机运行shell命令，从这里我们将开始看到Fabric的强大功能。
+使用 ```fabric.api.local```函数在本机运行shell命令，从这里我们将开始看到Fabric的强大功能。
 
 fabfile.py
 ```python
