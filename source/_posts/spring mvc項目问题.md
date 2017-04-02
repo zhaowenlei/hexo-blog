@@ -42,3 +42,4 @@ tags: [spring maven]
       <scope>provided</scope>
     </dependency>
 ```
+[参考文章:](http://www.cnblogs.com/mumuxinfei/p/4611098.html)
