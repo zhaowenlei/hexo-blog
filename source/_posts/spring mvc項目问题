@@ -1,8 +1,8 @@
 ---
 title: spring maven 依赖引发的问题
 date: 2017-03-26 12:24:35
-category: [spring maven]
-tags: [spring maven]
+category: [spring]
+tags: [spring]
 ---
 
 今天做搞spring项目，因为要写jsp，所以maven引入依赖，结果报了一大堆错误，网上搜了好多资料都没搞定，后来干脆就不弄了，睡了一觉，然后又来弄了一下，结果无意中又看了一遍文章。奇迹般的搞定了，希望和一样遇到该错误的人不要走弯路。
