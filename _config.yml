@@ -69,6 +69,6 @@ theme: lightum
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: git@github.com:zhaowenlei/zhaowenlei.github.io.git
+  repo: https://github.com/zhaowenlei/zhaowenlei.github.io.git
   branch: master
   message: github page
